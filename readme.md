@@ -28,4 +28,4 @@ CIが走り
 ![CIが走り](./readme_img/ci_run.png "CIが走り")
 
 問題の箇所でエラーとなる
-![問題の箇所でエラーとなる](http://i.imgur.com/Jjwsc.jpg "問題の箇所でエラーとなる")
+![問題の箇所でエラーとなる](./readme_img/ci_error_1.png "問題の箇所でエラーとなる")
