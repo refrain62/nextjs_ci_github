@@ -23,3 +23,9 @@ https://qiita.com/Senritsu420/items/f51a7eff81a8c1372302
 その際に reviewdogというLintでNGの場合にチェックしてくれる  
 脆弱性検査ツールのDockleも実行する  
 
+## developブランチにPRを出すと
+CIが走り
+![CIが走り](./readme_img/ci_run.png "CIが走り")
+
+問題の箇所でエラーとなる
+![問題の箇所でエラーとなる](./readme_img/ci_error_1.png "問題の箇所でエラーとなる")
